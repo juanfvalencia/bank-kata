@@ -1,7 +1,5 @@
 package com.sofka.bank;
 
-import com.sofka.bank.Statement;
-import com.sofka.bank.Transaction;
 
 import java.io.PrintStream;
 

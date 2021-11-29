@@ -1,7 +1,5 @@
 package com.sofka.bank;
 
-import com.sofka.bank.StatementLine;
-
 public class Transaction {
 
     private double balance = 0;
